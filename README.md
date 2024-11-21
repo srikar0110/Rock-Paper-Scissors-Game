@@ -17,7 +17,9 @@ A simple interactive Rock Paper Scissors game made with:
 
 1. Clone the repository:
    ```bash
- https://github.com/your-username/rock-paper-scissors-game.git
+   git clone https://github.com/your-username/rock-paper-scissors-game.git
+
+ 
 
 
 
