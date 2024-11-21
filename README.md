@@ -13,11 +13,11 @@ A simple interactive Rock Paper Scissors game made with:
 - Clone this repository.
 - Open `index.html` in a web browser.
 
-git clone https://github.com/your-username/rock-paper-scissors-game.git
+## Getting Started
 
-cd rock-paper-scissors-game
+1. Clone the repository:
+   ```bash
+ https://github.com/your-username/rock-paper-scissors-game.git
 
-git add .
-git commit -m "Initial commit: Rock Paper Scissors game"
-git push origin main
+
 
